@@ -6,6 +6,9 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
+url:              'https://ido-aim.github.io'
+baseurl:          '/2ndB-tradingArt'
+
 # bootstrap: use the remote theme for the site itself
 remote_theme: sighingnow/jekyll-gitbook
 
