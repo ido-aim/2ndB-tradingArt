@@ -1,0 +1,19 @@
+name: 2ndB-TradingArt
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+
+# bootstrap: use the remote theme for the site itself
+remote_theme: sighingnow/jekyll-gitbook
+
+toc:
+    enabled: true
+
+syntax_highlighter_style: colorful
+
+markdown_ext:     markdown,mkdown,mkdn,mkd,md
+
+plugins:
+  - jekyll-feed
+  - jekyll-readme-index
+  - jemoji
