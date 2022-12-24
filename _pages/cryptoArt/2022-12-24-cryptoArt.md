@@ -1,11 +1,13 @@
 ---
-title: crypto Art Fundamental
+title: crypto Art History
 author: Aim Liu
 date: 2022-12-24
 category: Jekyll
 layout: post
 ---
 updated : _{{ page.date }}_
+
+![the collapse]({{/assets/images/luna_peg.jpeg}})
 
 # 11 MAY 2022, Endogenous algostable coin, LUNA attacked
 ## Rumour: How it was attacked
