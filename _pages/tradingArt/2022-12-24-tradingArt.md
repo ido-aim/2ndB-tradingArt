@@ -98,11 +98,13 @@ $$
 # Calculate Position size for Fx -> Lot Note
 
 <div class="table-wrapper" markdown="block">
+
 |pips|units| Lot|
 |:-:|:-:|:-:|
 |10,000|100,000|1|
 |1,000|10,000|0.1|
 |100|1,000|0.01|
+
 </div>
 
 # Risk -> Calculate Position size for Crypto
@@ -135,11 +137,13 @@ $$
 at different leverage we could send various  amount like the following;
 
 <div class="table-wrapper" markdown="block">
+
 |Leverage|Pos Amount| Trading Amount|
 |:-:|:-:|:-:|
 |50|3,508|175,438|
 |20|8,771|175,438|
 |10|17,543|175,438|
+
 </div>
 
 # Risk -> example Excel
