@@ -27,7 +27,7 @@ updated : _{{ page.date }}_
 15. Whale got 100%X collateral back @ **100k BTC** = 3X Billion$
 16. Attacker got profit at least 6x - 3X Billion +  **Short Profit** (~4Billion)
 
-![luna]({{/assets/images/rumour_luna.jpeg}})
+see [luna-mechanism]({% post_url 2022-12-24-LUNA %})
 
 ## Do Kwon was on the run
 
