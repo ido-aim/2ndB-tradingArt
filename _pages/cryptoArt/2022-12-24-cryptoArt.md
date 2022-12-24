@@ -50,4 +50,4 @@ Exogenously collateralized stablecoins : [$USDC](https://twitter.com/search?q=%2
 # 3-arrow, Celcius, Blockfi meltdown
 
 # FTX, Alameda research meltdown
-{% post_url 2022-12-24-cryptoArtPossize %}
+{% pages_url 2022-12-24-cryptoArtPossize %}
