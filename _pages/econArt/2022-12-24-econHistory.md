@@ -8,9 +8,9 @@ layout: post
 
 updated : _{{ page.date }}_
 
-# Singapore, Nickle Scam
+# 2020, Singapore, Nickle Scam
 
-[Reference](https://www.channelnewsasia.com/singapore/singaporean-spent-millions-cars-jewels-nickel-fraud-loot-charges-say-2391641)
+[Reference: 22 Mar 2021, Vanessa Paige Chelvan](https://www.channelnewsasia.com/singapore/director-envy-asset-global-trading-charge-nickel-fraud-1-billion-272261)
 
 
 __Singaporean spent millions on cars, jewels with nickel fraud loot, charges say__
