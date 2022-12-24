@@ -15,16 +15,19 @@ updated : _{{ page.date }}_
 $$
 ex\ cap = 100\ mUSD
 $$
+
  - Determine Target Profit 
 
 $$
 ex\ target\ profit = 10\%\ APR
 $$
+
  - Determine Free Capital or Maximum loss 
 
 $$
 ex\ target\ profit = 10\%\ APR\ = 1\ mUSD
 $$
+
  - Conclusion
 
 $$
@@ -93,10 +96,11 @@ Lot = \frac{50}{1000.6} = 0.05
 $$
 
 # Calculate Position size for Fx -> Lot Note
+
 <div class="table-wrapper" markdown="block">
 |pips|units| Lot|
 |:-:|:-:|:-:|
-|10,000|100,000 |1|
+|10,000|100,000|1|
 |1,000|10,000|0.1|
 |100|1,000|0.01|
 </div>
