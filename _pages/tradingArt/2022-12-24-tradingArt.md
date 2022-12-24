@@ -25,7 +25,7 @@ $$
  - Determine Free Capital or Maximum loss 
 
 $$
-ex\ target\ profit = 10\%\ APR\ = 1\ mUSD
+ex\ target\ profit = 10\%\ ex\ cap = 1\ mUSD
 $$
 
  - Conclusion
@@ -62,7 +62,7 @@ Daily/Weekly/Monthly : Avg gain loss - try to reduce volatility
 
 
 # Risk -> Calculate Position size for Fx
-> ##### NOTICE
+> ##### NOTE
 > These calculation only apply on 1 Standard lot = 100,000 units
 {: .block-tip }
 
@@ -116,13 +116,15 @@ Trading\ Amount = \frac{Free\ capital}{\%\ SL distance}
 $$
 
 ## step2 : trading amount also equal Leverage*Amount and Free capital = %loss x Total capital
-> ##### NOTICE
-> the more the leverage, the less the SL distance we could place
-{: .block-tip }
+
 
 $$
 Leverage * Pos\ Amount = \frac{\%\ loss * total\  capital}{\%\ SL distance}
 $$
+
+> ##### NOTICE
+> the more the leverage, the less the SL distance we could place
+{: .block-tip }
 
 
 ```markdown
