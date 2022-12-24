@@ -1,5 +1,5 @@
 ---
-title: Trading Art
+title: Trading Art Position Size
 author: Aim Liu
 date: 2022-12-24
 category: Jekyll
