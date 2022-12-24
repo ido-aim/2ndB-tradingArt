@@ -59,7 +59,10 @@ Daily/Weekly/Monthly : Avg gain loss - try to reduce volatility
 
 
 # Risk -> Calculate Position size for Fx
-These calculation only apply on 1 Standard lot = 100,000 units
+> ##### NOTICE
+> These calculation only apply on 1 Standard lot = 100,000 units
+{: .block-tip }
+
 ## step1 : determine trading amount
 
 $$
