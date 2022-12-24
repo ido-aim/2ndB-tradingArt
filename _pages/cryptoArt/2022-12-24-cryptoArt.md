@@ -7,7 +7,7 @@ layout: post
 ---
 updated : _{{ page.date }}_
 
-![the collapse]({{/assets/images/luna_peg.jpeg}})
+![the collapse]({% link /assets/images/luna_peg.jpeg %})
 
 # 11 MAY 2022, Endogenous algostable coin, LUNA attacked
 ## Rumour: How it was attacked
