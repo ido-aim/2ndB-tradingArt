@@ -84,7 +84,7 @@ $$
 Lot = \frac{\%\ loss * Free\ capital}{units} = \frac{\%\ loss * Free\ capital}{10*pips}
 $$
 
-```
+```markdown
 i.e. XAUUSD open LONG 1740.317 
 target 1750.323(1000.6 units)
 expected loss 50$
@@ -125,8 +125,10 @@ Leverage * Pos\ Amount = \frac{\%\ loss * total\  capital}{\%\ SL distance}
 $$
 
 
-```
-i.e. BTCUSD open LONG 17400 target 17500 SL 17300(0.57%); free cap = 1,000$
+```markdown
+i.e. BTCUSD open LONG 17400 
+target 17500 SL 17300(0.57%) 
+free cap = 1,000$
 trading amount and leverage = ?
 ```
 
