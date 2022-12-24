@@ -149,4 +149,5 @@ at different leverage we could send various  amount like the following;
 </div>
 
 # Risk -> example Excel
-[Risk -> example Excel](https://ido-aim.github.io/paper/dist/20220902_FuturePositionSize/)
+
+<a href="https://ido-aim.github.io/paper/dist/20220902_FuturePositionSize/" target="_blank">Risk -> example Excel</a>
