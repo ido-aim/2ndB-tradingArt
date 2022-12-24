@@ -36,6 +36,13 @@ updated : _{{ page.date }}_
 # 10 AUG 2022, Tornado cash was blacklisted by US treasury and taken down
 [ref](https://twitter.com/BowTiedIguana/status/1556683120002314241)
 
+# Algorithmic Endogenous method would be banned. 
+[ref](https://cointelegraph.com/news/draft-us-stablecoin-bill-would-ban-new-algo-stablecoins-for-2-years)
+
+endogenously collateralized stablecoins : [$USTC](https://twitter.com/search?q=%24USTC&src=cashtag_click) using [$LUNC](https://twitter.com/search?q=%24LUNC&src=cashtag_click) as collateral. 
+
+Exogenously collateralized stablecoins : [$USDC](https://twitter.com/search?q=%24USDC&src=cashtag_click) using Dollar fiat as collateral
+
 # Raise of Ponzinomics: 3,3 OlympusDAO, Wonderland, Titano and much more
 
 # Fall of Ponzinomics
